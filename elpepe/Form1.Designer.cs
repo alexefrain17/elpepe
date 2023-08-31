@@ -50,16 +50,19 @@
             // 
             // tbDisplay
             // 
+            tbDisplay.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
             tbDisplay.Location = new Point(12, 23);
             tbDisplay.Name = "tbDisplay";
-            tbDisplay.Size = new Size(203, 23);
+            tbDisplay.RightToLeft = RightToLeft.Yes;
+            tbDisplay.Size = new Size(203, 36);
             tbDisplay.TabIndex = 0;
             // 
             // num7
             // 
+            num7.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
             num7.Location = new Point(12, 74);
             num7.Name = "num7";
-            num7.Size = new Size(75, 23);
+            num7.Size = new Size(75, 43);
             num7.TabIndex = 1;
             num7.Text = "7";
             num7.UseVisualStyleBackColor = true;
@@ -67,9 +70,10 @@
             // 
             // num4
             // 
+            num4.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
             num4.Location = new Point(12, 145);
             num4.Name = "num4";
-            num4.Size = new Size(75, 23);
+            num4.Size = new Size(75, 47);
             num4.TabIndex = 2;
             num4.Text = "4";
             num4.UseVisualStyleBackColor = true;
@@ -77,9 +81,10 @@
             // 
             // num1
             // 
-            num1.Location = new Point(12, 210);
+            num1.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
+            num1.Location = new Point(12, 205);
             num1.Name = "num1";
-            num1.Size = new Size(75, 23);
+            num1.Size = new Size(75, 47);
             num1.TabIndex = 3;
             num1.Text = "1";
             num1.UseVisualStyleBackColor = true;
@@ -87,9 +92,10 @@
             // 
             // num0
             // 
-            num0.Location = new Point(12, 274);
+            num0.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
+            num0.Location = new Point(12, 264);
             num0.Name = "num0";
-            num0.Size = new Size(75, 23);
+            num0.Size = new Size(75, 53);
             num0.TabIndex = 4;
             num0.Text = "0";
             num0.UseVisualStyleBackColor = true;
@@ -97,9 +103,10 @@
             // 
             // num5
             // 
+            num5.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
             num5.Location = new Point(93, 145);
             num5.Name = "num5";
-            num5.Size = new Size(75, 23);
+            num5.Size = new Size(75, 47);
             num5.TabIndex = 6;
             num5.Text = "5";
             num5.UseVisualStyleBackColor = true;
@@ -107,9 +114,10 @@
             // 
             // num2
             // 
-            num2.Location = new Point(93, 210);
+            num2.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
+            num2.Location = new Point(93, 205);
             num2.Name = "num2";
-            num2.Size = new Size(75, 23);
+            num2.Size = new Size(75, 47);
             num2.TabIndex = 7;
             num2.Text = "2";
             num2.UseVisualStyleBackColor = true;
@@ -117,18 +125,20 @@
             // 
             // igual
             // 
-            igual.Location = new Point(140, 274);
+            igual.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
+            igual.Location = new Point(140, 264);
             igual.Name = "igual";
-            igual.Size = new Size(109, 23);
+            igual.Size = new Size(109, 55);
             igual.TabIndex = 8;
             igual.Text = "=";
             igual.UseVisualStyleBackColor = true;
             // 
             // num9
             // 
+            num9.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
             num9.Location = new Point(174, 74);
             num9.Name = "num9";
-            num9.Size = new Size(75, 23);
+            num9.Size = new Size(75, 43);
             num9.TabIndex = 9;
             num9.Text = "9";
             num9.UseVisualStyleBackColor = true;
@@ -136,9 +146,10 @@
             // 
             // num6
             // 
+            num6.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
             num6.Location = new Point(174, 145);
             num6.Name = "num6";
-            num6.Size = new Size(75, 23);
+            num6.Size = new Size(75, 47);
             num6.TabIndex = 10;
             num6.Text = "6";
             num6.UseVisualStyleBackColor = true;
@@ -146,9 +157,10 @@
             // 
             // num3
             // 
-            num3.Location = new Point(174, 210);
+            num3.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
+            num3.Location = new Point(174, 205);
             num3.Name = "num3";
-            num3.Size = new Size(75, 23);
+            num3.Size = new Size(75, 47);
             num3.TabIndex = 11;
             num3.Text = "3";
             num3.UseVisualStyleBackColor = true;
@@ -156,54 +168,60 @@
             // 
             // mas
             // 
+            mas.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
             mas.Location = new Point(255, 74);
             mas.Name = "mas";
-            mas.Size = new Size(75, 23);
+            mas.Size = new Size(75, 43);
             mas.TabIndex = 12;
             mas.Text = "+";
             mas.UseVisualStyleBackColor = true;
             // 
             // menos
             // 
+            menos.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
             menos.Location = new Point(255, 145);
             menos.Name = "menos";
-            menos.Size = new Size(75, 23);
+            menos.Size = new Size(75, 47);
             menos.TabIndex = 13;
             menos.Text = "-";
             menos.UseVisualStyleBackColor = true;
             // 
             // multi
             // 
-            multi.Location = new Point(255, 210);
+            multi.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
+            multi.Location = new Point(255, 205);
             multi.Name = "multi";
-            multi.Size = new Size(75, 23);
+            multi.Size = new Size(75, 47);
             multi.TabIndex = 14;
             multi.Text = "*";
             multi.UseVisualStyleBackColor = true;
             // 
             // divi
             // 
-            divi.Location = new Point(255, 274);
+            divi.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
+            divi.Location = new Point(255, 264);
             divi.Name = "divi";
-            divi.Size = new Size(75, 23);
+            divi.Size = new Size(75, 55);
             divi.TabIndex = 15;
             divi.Text = "/";
             divi.UseVisualStyleBackColor = true;
             // 
             // punto
             // 
-            punto.Location = new Point(93, 274);
+            punto.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
+            punto.Location = new Point(93, 264);
             punto.Name = "punto";
-            punto.Size = new Size(41, 23);
+            punto.Size = new Size(41, 53);
             punto.TabIndex = 16;
             punto.Text = ".";
             punto.UseVisualStyleBackColor = true;
             // 
             // num8
             // 
+            num8.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
             num8.Location = new Point(93, 74);
             num8.Name = "num8";
-            num8.Size = new Size(75, 23);
+            num8.Size = new Size(75, 43);
             num8.TabIndex = 17;
             num8.Text = "8";
             num8.UseVisualStyleBackColor = true;
@@ -211,6 +229,7 @@
             // 
             // borrar
             // 
+            borrar.Font = new Font("Segoe UI", 16.25F, FontStyle.Bold, GraphicsUnit.Point);
             borrar.Location = new Point(242, 12);
             borrar.Name = "borrar";
             borrar.Size = new Size(88, 43);
@@ -223,7 +242,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(358, 329);
+            ClientSize = new Size(358, 393);
             Controls.Add(borrar);
             Controls.Add(num8);
             Controls.Add(punto);
