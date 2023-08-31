@@ -1,0 +1,17 @@
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\bin\Debug\net6.0-windows\HOLA.exe
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\bin\Debug\net6.0-windows\HOLA.deps.json
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\bin\Debug\net6.0-windows\HOLA.runtimeconfig.json
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\bin\Debug\net6.0-windows\HOLA.dll
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\bin\Debug\net6.0-windows\HOLA.pdb
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\HOLA.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\HOLA.Form1.resources
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\HOLA.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\HOLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\HOLA.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\HOLA.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\HOLA.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\HOLA.dll
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\refint\HOLA.dll
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\HOLA.pdb
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\HOLA.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\HOLA MUNDO\HOLA\obj\Debug\net6.0-windows\ref\HOLA.dll
