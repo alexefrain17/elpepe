@@ -109,5 +109,12 @@ namespace elpepe
             valor1 = Convert.ToDouble(tbDisplay.Text);
             tbDisplay.Text = "";
         }
+
+        private void multi_Click(object sender, EventArgs e)
+        {
+            operacion = 3;
+            valor1 = Convert.ToDouble(tbDisplay.Text);
+            tbDisplay.Text = "";
+        }
     }
 }

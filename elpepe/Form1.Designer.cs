@@ -198,6 +198,7 @@
             multi.TabIndex = 14;
             multi.Text = "*";
             multi.UseVisualStyleBackColor = true;
+            multi.Click += multi_Click;
             // 
             // divi
             // 
