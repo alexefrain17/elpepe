@@ -116,5 +116,12 @@ namespace elpepe
             valor1 = Convert.ToDouble(tbDisplay.Text);
             tbDisplay.Text = "";
         }
+
+        private void divi_Click(object sender, EventArgs e)
+        {
+            operacion = 4;
+            valor1 = Convert.ToDouble(tbDisplay.Text);
+            tbDisplay.Text = "";
+        }
     }
 }

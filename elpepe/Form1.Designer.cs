@@ -209,6 +209,7 @@
             divi.TabIndex = 15;
             divi.Text = "/";
             divi.UseVisualStyleBackColor = true;
+            divi.Click += divi_Click;
             // 
             // punto
             // 
