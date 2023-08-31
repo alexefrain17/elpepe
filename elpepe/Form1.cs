@@ -123,5 +123,10 @@ namespace elpepe
             valor1 = Convert.ToDouble(tbDisplay.Text);
             tbDisplay.Text = "";
         }
+
+        private void punto_Click(object sender, EventArgs e)
+        {
+            tbDisplay.Text = tbDisplay.Text + ".";
+        }
     }
 }

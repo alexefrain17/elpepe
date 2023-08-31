@@ -220,6 +220,7 @@
             punto.TabIndex = 16;
             punto.Text = ".";
             punto.UseVisualStyleBackColor = true;
+            punto.Click += punto_Click;
             // 
             // num8
             // 
