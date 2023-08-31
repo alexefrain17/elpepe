@@ -1,3 +1,6 @@
+using System;
+using System.Configuration;
+
 namespace elpepe
 {
     public partial class Form1 : Form
@@ -6,6 +9,11 @@ namespace elpepe
         {
             InitializeComponent();
         }
+        private double valor1;
+        private double valor2;
+
+        private double resultado;
+        private int operacion;
 
         private void num0_Click(object sender, EventArgs e)
         {
@@ -70,6 +78,28 @@ namespace elpepe
         private void borrar_Click(object sender, EventArgs e)
         {
             //boton limpiar
+            tbDisplay.Text = "";
+        }
+
+        private void igual_Click(object sender, EventArgs e)
+        {
+            //boton igual
+            valor2 = Convert.ToDouble(tbDisplay.Text);
+            switch (operacion)
+            {
+                case 1: resultado = valor1 + valor2; break;
+                case 2: resultado = valor1 - valor2; break;
+                case 3: resultado = valor1 * valor2; break;
+                case 4: resultado = valor1 / valor2; break;
+
+            }
+            tbDisplay.Text = resultado.ToString();
+        }
+
+        private void mas_Click(object sender, EventArgs e)
+        {
+            operacion = 1;
+            valor1 = Convert.ToDouble(tbDisplay.Text);
             tbDisplay.Text = "";
         }
     }

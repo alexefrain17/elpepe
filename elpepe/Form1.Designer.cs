@@ -132,6 +132,7 @@
             igual.TabIndex = 8;
             igual.Text = "=";
             igual.UseVisualStyleBackColor = true;
+            igual.Click += igual_Click;
             // 
             // num9
             // 
@@ -175,6 +176,7 @@
             mas.TabIndex = 12;
             mas.Text = "+";
             mas.UseVisualStyleBackColor = true;
+            mas.Click += mas_Click;
             // 
             // menos
             // 
