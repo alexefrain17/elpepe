@@ -45,13 +45,14 @@
             divi = new Button();
             punto = new Button();
             num8 = new Button();
+            borrar = new Button();
             SuspendLayout();
             // 
             // tbDisplay
             // 
-            tbDisplay.Location = new Point(12, 12);
+            tbDisplay.Location = new Point(12, 23);
             tbDisplay.Name = "tbDisplay";
-            tbDisplay.Size = new Size(330, 23);
+            tbDisplay.Size = new Size(203, 23);
             tbDisplay.TabIndex = 0;
             // 
             // num7
@@ -186,7 +187,7 @@
             divi.Name = "divi";
             divi.Size = new Size(75, 23);
             divi.TabIndex = 15;
-            divi.Text = "%";
+            divi.Text = "/";
             divi.UseVisualStyleBackColor = true;
             // 
             // punto
@@ -208,11 +209,22 @@
             num8.UseVisualStyleBackColor = true;
             num8.Click += num8_Click;
             // 
+            // borrar
+            // 
+            borrar.Location = new Point(242, 12);
+            borrar.Name = "borrar";
+            borrar.Size = new Size(88, 43);
+            borrar.TabIndex = 18;
+            borrar.Text = "C";
+            borrar.UseVisualStyleBackColor = true;
+            borrar.Click += borrar_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(358, 329);
+            Controls.Add(borrar);
             Controls.Add(num8);
             Controls.Add(punto);
             Controls.Add(divi);
@@ -255,5 +267,6 @@
         private Button divi;
         private Button punto;
         private Button num8;
+        private Button borrar;
     }
 }

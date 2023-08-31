@@ -66,5 +66,11 @@ namespace elpepe
             //numero 9
             tbDisplay.Text = tbDisplay.Text + "9";
         }
+
+        private void borrar_Click(object sender, EventArgs e)
+        {
+            //boton limpiar
+            tbDisplay.Text = "";
+        }
     }
 }
