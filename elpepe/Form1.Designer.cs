@@ -187,6 +187,7 @@
             menos.TabIndex = 13;
             menos.Text = "-";
             menos.UseVisualStyleBackColor = true;
+            menos.Click += menos_Click;
             // 
             // multi
             // 

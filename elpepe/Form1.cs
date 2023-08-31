@@ -102,5 +102,12 @@ namespace elpepe
             valor1 = Convert.ToDouble(tbDisplay.Text);
             tbDisplay.Text = "";
         }
+
+        private void menos_Click(object sender, EventArgs e)
+        {
+            operacion = 2;
+            valor1 = Convert.ToDouble(tbDisplay.Text);
+            tbDisplay.Text = "";
+        }
     }
 }
