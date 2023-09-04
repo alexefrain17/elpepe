@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\bin\Release\net6.0-windows\elpepe.exe
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\bin\Release\net6.0-windows\elpepe.deps.json
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\bin\Release\net6.0-windows\elpepe.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\bin\Release\net6.0-windows\elpepe.dll
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\bin\Release\net6.0-windows\elpepe.pdb
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\elpepe.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\elpepe.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\elpepe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\elpepe.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\elpepe.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\elpepe.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\elpepe.dll
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\refint\elpepe.dll
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\elpepe.pdb
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\elpepe.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\obj\Release\net6.0-windows\ref\elpepe.dll

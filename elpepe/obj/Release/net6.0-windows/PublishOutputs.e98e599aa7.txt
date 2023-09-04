@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\bin\Release\net6.0-windows\publish\elpepe.exe
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\bin\Release\net6.0-windows\publish\elpepe.dll
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\bin\Release\net6.0-windows\publish\elpepe.deps.json
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\bin\Release\net6.0-windows\publish\elpepe.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\elpepe\elpepe\bin\Release\net6.0-windows\publish\elpepe.pdb
